@@ -41,7 +41,6 @@ const searchEvents = async (city, category='') => {
             return [];
         }
 
-
     }//try
     catch (error) {
         console.error('Error fetching events from Ticketmaster:', error.response?.data || error.message);
