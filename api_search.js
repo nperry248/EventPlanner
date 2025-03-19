@@ -7,9 +7,6 @@ const eventsdb = require('./eventdb.js')
 
 const axios = require('axios')
 
-// Will move to better folder later
-const key = 'AedbGcl2gJCJDcQP2UplDow8bdRn03Za'
-const base_url = 'https://app.ticketmaster.com/discovery/v2/events'
 
 
 
